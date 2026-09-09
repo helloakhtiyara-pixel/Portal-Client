@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Light and Vow",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyDFCMqYFnTg9ndxpISWSTcj5j9tXmFzU38",
+    whatsappAdmin: "6282235223089" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
